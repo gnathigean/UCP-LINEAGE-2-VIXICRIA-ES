@@ -1,6 +1,6 @@
 <?php
 // Credenciais do Mercado Pago
-define('MP_ACCESS_TOKEN', 'APP_USR-8716465922297740-122412-8d3ccabac5f8664266b58987cf43438d-10784404');
+define('MP_ACCESS_TOKEN', 'sua key aqui');
 
 // Configuração de Moeda (Valor em Reais)
 define('COIN_PRICE', 1.00); 
@@ -12,6 +12,7 @@ define('GAME_CURRENCY_VAR', 'PRIME_POINTS');
 define('COIN_DECIMAL', 100); 
 
 // --- RECAPTCHA GOOGLE ---
-define('RECAPTCHA_SITE_KEY', '6Ld1-jUsAAAAAK3igp1hCAFr_bxeFu4ZJMjNrJoF');
-define('RECAPTCHA_SECRET_KEY', '6Ld1-jUsAAAAAJfRvoQll-rdX4bJd4bqDqhmsDLp');
+define('RECAPTCHA_SITE_KEY', 'sua-key-aqui');
+define('RECAPTCHA_SECRET_KEY', 'sua-key-aqui');
+
 ?>
